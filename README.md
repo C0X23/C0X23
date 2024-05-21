@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/C0X23)
 <h1 align="center">Hi 👋, I'm Megret Corentin</h1>
-<h3 align="center">A student graduated from a BTS SNIR and new student at the 42 Lausanne school Lausanne</h3>
+<h3 align="center">A student graduated from a BTS SNIR and new student at the 42 Lausanne school</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **C / C++**
