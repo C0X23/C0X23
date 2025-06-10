@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C / C++**
 
-- 📫 How to reach me **cmegret@student.42lausanne.ch**
+- 📫 How to reach me **megret.corentin@gmail.com**
 
 - ⚡ Fun fact **I play guitar🤖, passionate about new technology🤖 and space 🛰**
 
