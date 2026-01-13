@@ -1,20 +1,86 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/C0X23)
-<h1 align="center">Hi 👋, I'm Megret Corentin</h1>
-<h3 align="center">A student graduated from a BTS SNIR and new student at the 42 Lausanne school</h3>
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+  
+# Corentin M.
 
-- 🌱 I’m currently learning **C / C++**
+**Développeur Full Stack** · École 42 · Suisse 🇨🇭
 
-- 📫 How to reach me **megret.corentin@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gilt-five-d5z4vq2std.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corentin-megret-2b298a23b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megret.corentin@gmail.com)
 
-- ⚡ Fun fact **I play guitar🤖, passionate about new technology🤖 and space 🛰**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/corentin-megret-2b298a23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/corentin-megret-2b298a23b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22809962/corentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22809962/corentin" height="30" width="40" /></a>
-<a href="https://discord.gg/cox_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cox_01" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+### 👨‍💻 À propos
+
+Ingénieur Logiciel Full Stack et ancien étudiant de l'École 42, je conçois des systèmes performants et des solutions web complètes. Mon expertise s'étend de la programmation système bas niveau (C, C++, Unix, Bash) aux architectures web modernes (Python, Django, Next.js, TypeScript).
+
+J'accorde une importance capitale à la **qualité du code**, à la **performance** et à l'**automatisation des déploiements**.
+
+---
+
+### 🛠️ Stack Technique
+
+<div align="center">
+
+**Langages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Outils**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=C0X23&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0X23&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+### 🎯 Projets Notables
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [**Portfolio**](https://portfolio-gilt-five-d5z4vq2std.vercel.app) | Portfolio moderne avec i18n, animations et design soigné | Next.js, TypeScript, Tailwind, Framer Motion |
+| **Gestion SAV - Arcom** | Application de gestion SAV complète en entreprise | Python, Django, PostgreSQL, Docker |
+| **Minishell** | Réimplémentation d'un shell Unix | C, Unix, Processus, Signaux |
+| **Cub3D** | Moteur de rendu 3D style Wolfenstein (raycasting) | C, Mathématiques, Graphics |
+
+---
+
+### 📈 Parcours
+
+```
+2024 - Présent   Développeur Full Stack @ Arcom (Alternance)
+2023 - 2025      École 42 Lausanne
+2023             Piscine 42 (C, Shell, Git)
+2021 - 2023      BTS SNIR (Systèmes Numériques)
+```
+
+---
+
+<div align="center">
+  
+**Ouvert aux opportunités** · 📍 Suisse
+
+</div>
