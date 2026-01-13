@@ -48,11 +48,10 @@ J'accorde une importance capitale à la **qualité du code**, à la **performanc
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=C0X23&show_icons=true&theme=graywhite&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0X23&layout=compact&theme=graywhite&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0X23&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
