@@ -2,15 +2,15 @@
 
 **Back-end developer** · Python · Django · PostgreSQL · Docker · Linux
 
-[LinkedIn](https://www.linkedin.com/in/corentin-megret-2b298a23b/) · [Email](mailto:megret.corentin@gmail.com)
+[Portfolio](https://cmegret.dev/en) · [LinkedIn](https://www.linkedin.com/in/corentin-megret-2b298a23b/) · [Email](mailto:megret.corentin@gmail.com)
 
-Based in Haute-Savoie, France (Geneva / Lausanne area).
+France · Geneva / Lausanne area.
 
 ---
 
 ## About
 
-Python/Django developer since March 2024. I design, test and ship business applications to production: an after-sales service platform (Django, PostgreSQL), secured APIs, automations, and an offline barcode-scanning mobile app. I enjoy software that stays close to physical products and traceability.
+Python/Django developer since March 2024. I design, test and ship business applications to production: an after-sales service platform (Django, PostgreSQL), secured APIs and automations. I also develop an offline barcode-scanning PWA, currently in testing. I enjoy software that stays close to physical products and traceability.
 
 École 42 Lausanne also gave me a solid base in C/C++, Unix, networks and systems programming.
 
