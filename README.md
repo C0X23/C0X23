@@ -1,86 +1,59 @@
-<div align="center">
+# Corentin Megret
 
-# Corentin M.
+**Back-end developer** · Python · Django · PostgreSQL · Docker · Linux
 
-**Développeur Backend Python** · Python · Django · PostgreSQL · Docker · Linux
+[LinkedIn](https://www.linkedin.com/in/corentin-megret-2b298a23b/) · [Email](mailto:megret.corentin@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corentin-megret-2b298a23b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:megret.corentin@gmail.com)
-
-</div>
+Based in Haute-Savoie, France (Geneva / Lausanne area).
 
 ---
 
-### 👨‍💻 À propos
+## About
 
-Développeur backend spécialisé en **Python/Django**, avec une expérience concrète dans la conception et le déploiement d'applications web métier.
+Python/Django developer since March 2024. I design, test and ship business applications to production: an after-sales service platform (Django, PostgreSQL), secured APIs, automations, and an offline barcode-scanning mobile app. I enjoy software that stays close to physical products and traceability.
 
-Je travaille principalement sur le **backend, les APIs, les bases de données et l'infrastructure**, avec une attention particulière portée à la qualité du code, aux tests et à l'automatisation des déploiements.
-
-Ma formation à l'École 42 m'a également apporté une solide base en **C, C++, Unix, réseaux, processus et programmation système**.
-
-📍 Annecy, France · Mobilité Genève / Suisse romande
+École 42 Lausanne also gave me a solid base in C/C++, Unix, networks and systems programming.
 
 ---
 
-### 🛠️ Stack technique
+## Stack
 
-**Backend**
+**Back-end:** Python, Django, Django REST Framework, REST APIs, Celery, OAuth 2.0
 
-Python · Django · Django REST Framework · REST API · WebSockets · Celery
+**Data:** PostgreSQL, SQL, Redis, pandas
 
-**Données**
+**Quality and deployment:** pytest, Git, GitHub Actions, Docker, Docker Compose, Linux, nginx, Sentry
 
-PostgreSQL · SQL · Redis
+**Automation:** scheduled imports, API integrations (REST, SOAP, SFTP), n8n workflows
 
-**DevOps & Infrastructure**
+**Front-end and mobile (basics):** PWA, JavaScript, HTML/CSS, Django templates
 
-Docker · Docker Compose · Linux · Git · GitHub Actions · CI/CD · VPS
-
-**Systèmes & Réseaux**
-
-C · C++ · Unix · HTTP · Sockets · Processus · Signaux
-
-**Frontend**
-
-JavaScript · TypeScript · React · Next.js · HTML/CSS · HTMX
-
-**Qualité**
-
-pytest · pytest-django · coverage · Ruff · Black · mypy
+**Other (basics):** C#/.NET, C/C++ (École 42)
 
 ---
 
-### 🚀 Projets principaux
+## Highlighted work
 
-| Projet | Description | Stack |
+| Project | What it is | Stack |
 |--------|-------------|-------|
-| **Arcom** | Application métier développée et maintenue en environnement professionnel | Python, Django, PostgreSQL, Redis |
-| [**Job Tracker**](https://github.com/C0X23/job-tracker) | Application de suivi de candidatures, testée et déployée sur VPS | Django, DRF, PostgreSQL, Docker, CI/CD |
-| **Webserv** | Serveur HTTP développé dans le cadre de l'École 42 | C++, HTTP, Sockets |
-| **Minishell** | Réimplémentation d'un shell Unix | C, Unix, Processus, Signaux |
-| **Inception** | Infrastructure conteneurisée avec Docker | Docker, Linux, Nginx, MariaDB |
+| **After-sales platform** (professional project, private codebase) | Business application used by about a dozen people for several hundred cases a year. Secured REST APIs (OAuth 2.0, rate limiting), carrier (SOAP) and customs (SFTP) integrations, nightly import of more than 5 years of sales, offline barcode-scanning PWA (in testing), about 620 tests, GitHub Actions CI, Sentry. | Python, Django, PostgreSQL, Redis |
+| **Internal ERP** (personal company, in development, private codebase) | ERP designed and led for an Amazon FBA activity. Secure foundation: OIDC with two-factor authentication, role-based permissions and an audit log. Amazon SP-API integration in progress. About 1,350 tests and 99.97% back-end coverage. | Python, Django, DRF, PostgreSQL, Celery, Docker Compose |
+| [**Minishell**](https://github.com/C0X23/Minishell) | Unix shell reimplementation, École 42 Lausanne: pipelines, redirections, builtins, environment variables and signal handling. | C, Unix, processes, signals |
+| **Webserv** and **Inception** (École 42) | HTTP server (C++, sockets) and a containerised infrastructure (Docker, Linux). Code not published here. | C++, HTTP, Docker, Linux |
 
 ---
 
-### 🎓 Formation
+## Education
 
-**École 42 — Septembre 2023 → Juin 2025**
+- **École 42 Lausanne** — September 2023 – June 2025 · 2-year programme. C/C++, Unix, networks, algorithms and Docker.
+- **BTS Systèmes Numériques, option A : Informatique et réseaux** — Lycée Les Eucalyptus, Nice, 2021 – 2023.
 
-Formation basée sur des projets en C/C++, Unix, réseaux, systèmes, Docker, développement web et algorithmique.
-
----
-
-### 📫 Contact
-
-- **Email :** [megret.corentin@gmail.com](mailto:megret.corentin@gmail.com)
-- **LinkedIn :** [linkedin.com/in/corentin-megret-2b298a23b](https://www.linkedin.com/in/corentin-megret-2b298a23b)
-- **GitHub :** [github.com/C0X23](https://github.com/C0X23)
+**Languages:** French, native · English, B2–C1, professional.
 
 ---
 
-<div align="center">
+## Contact
 
-**Ouvert aux opportunités Backend Python** · 📍 France / Suisse romande
-
-</div>
+- Email: [megret.corentin@gmail.com](mailto:megret.corentin@gmail.com)
+- LinkedIn: [linkedin.com/in/corentin-megret-2b298a23b](https://www.linkedin.com/in/corentin-megret-2b298a23b/)
+- GitHub: [github.com/C0X23](https://github.com/C0X23)
